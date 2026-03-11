@@ -28,7 +28,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented required and stretch features:
 
-<img src='YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Week 3 Project Assignment [James Paek]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with James Paek using Licecap software
 
