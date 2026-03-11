@@ -30,7 +30,7 @@ Here's a walkthrough of implemented required and stretch features:
 
 <img src='YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ...
+GIF created with James Paek using Licecap software
 
 ## Notes
 
