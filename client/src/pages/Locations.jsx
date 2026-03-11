@@ -29,7 +29,7 @@ const Locations = () => {
     <div className='available-locations'>
       <div style={{ position: 'relative', width: '100%', maxWidth: '900px' }}>
         <img
-          src='https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900'
+          src='https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900'
           alt='Unity Grid Plaza Map'
           style={{ width: '100%', borderRadius: '8px', border: '2px solid white' }}
         />
